@@ -1,5 +1,5 @@
 # DirectX SDK
-*(headers and x86, x64 libs)*
+*(headers and x86 libs only)*
 
 Version: **June 2010**
 
